@@ -1,0 +1,478 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6dcd4bc3448a85ddf4b2a328d461ebbe/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3a1a028553dbee13798b106a601ac8fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9754d1324318f0ce57e6f14f62688260/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.5.aar/e0c74eac3eb9d920fbb0483839b84006/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fa12db3d39755ff7df7598fb12a5d8f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/a1251f31839659bad664e9efed04bdc7/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.3.aar/e38d40ba90585eda8a70abab179ebdf8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/d853d3ca29a5c3fce3fbd5f1485a1311/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/46528902f2c8364a8cfd3a6d47fff12b/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bd85c82c1f3821b6148afca0872b1efb/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/e56fcb172a3c20c4027d651d59ac4095/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/7b175d59fb5c692fc0d60dc34f94594e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/7e98afa9f59354613a45060b4943ad6f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/c856a84b9b72a80ac07573eb6908b8ba/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/ca3bb0f8e59f16993d11807577808a5f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/e96bce1b4dd1897ceb0930f3583d3ab1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/35e1e596af69829373a468ee6dc949ea/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/aa6f03b78eb01de155f9cea723b5c7a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/da305f066c2ddcc7ecd809bdc69c471b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/66245f80369fc694cf786f4589c50d23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ea528adb7ff0e3bb9768ba4b32d2d460/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8ce156d7a397bd0444f859ef42bd0c1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5100504293dcddff558078a421eb677a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/619cb6aaf38097ee1033f5672400f086/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3896fc8662bd820130ad65aa79e93fcb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b9bb2160e10dbc76dcaa9e0e9b494e9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6775031e81a8fefdc5e89792be4b7f6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1f6c4285b793b79a4bff993d7ee17fda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8a2acad7b33eecc7e06afc08896d8e7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3d7088fa3cffe2fcc42c953fbbee188a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fcc9b4e838751167a2bc91fbf25f6be8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5d39cd30e0a0c5188921f72aa2e00c52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/766da8c3b4fefbe17fcc3aa1c31bf8c0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9d29d6ff8cc7e78aaf28ca4c070564d4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b45cf1c4483f4d77a32e17c87ac918bc/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a1209caac3e45cf0fa7d60a07807d23f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/57cec216ed6704c9809ad660301b3533/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8633448dabb94f2b4502e2576f845263/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9c71a4033c3cdda3c5278034b784b496/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5b46afba428498f2407fc8ed0b24a18e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5a884f40af964a76d2e6bf109c05344d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ab28d3ef0101578e4688852928965cc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b2f578ea4fd179520ba353933402f4a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fb503c74936166e37461659c1fdc5ee2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/66a5c85c46e8db71c32829d9e7c1a1bf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a10f953e58c6f4dac57cb15ee84fa972/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:3:11-54
+		INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:5:3-68
+	android:name
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:5:20-66
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:6:3-68
+	android:name
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:6:20-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:7:3-69
+	android:name
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:7:20-67
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:9:3-64
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:9:20-62
+application
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:11:3-30:17
+MERGED from [com.android.support:design:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6dcd4bc3448a85ddf4b2a328d461ebbe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6dcd4bc3448a85ddf4b2a328d461ebbe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9754d1324318f0ce57e6f14f62688260/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9754d1324318f0ce57e6f14f62688260/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.5.aar/e0c74eac3eb9d920fbb0483839b84006/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.5.aar/e0c74eac3eb9d920fbb0483839b84006/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/a1251f31839659bad664e9efed04bdc7/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/a1251f31839659bad664e9efed04bdc7/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.3.aar/e38d40ba90585eda8a70abab179ebdf8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.3.aar/e38d40ba90585eda8a70abab179ebdf8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/d853d3ca29a5c3fce3fbd5f1485a1311/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/d853d3ca29a5c3fce3fbd5f1485a1311/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/46528902f2c8364a8cfd3a6d47fff12b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/46528902f2c8364a8cfd3a6d47fff12b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bd85c82c1f3821b6148afca0872b1efb/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bd85c82c1f3821b6148afca0872b1efb/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/e56fcb172a3c20c4027d651d59ac4095/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/e56fcb172a3c20c4027d651d59ac4095/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/7b175d59fb5c692fc0d60dc34f94594e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/7b175d59fb5c692fc0d60dc34f94594e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/7e98afa9f59354613a45060b4943ad6f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/7e98afa9f59354613a45060b4943ad6f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/c856a84b9b72a80ac07573eb6908b8ba/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/c856a84b9b72a80ac07573eb6908b8ba/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/ca3bb0f8e59f16993d11807577808a5f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/ca3bb0f8e59f16993d11807577808a5f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/e96bce1b4dd1897ceb0930f3583d3ab1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/e96bce1b4dd1897ceb0930f3583d3ab1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/35e1e596af69829373a468ee6dc949ea/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/35e1e596af69829373a468ee6dc949ea/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/766da8c3b4fefbe17fcc3aa1c31bf8c0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/766da8c3b4fefbe17fcc3aa1c31bf8c0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9d29d6ff8cc7e78aaf28ca4c070564d4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9d29d6ff8cc7e78aaf28ca4c070564d4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b45cf1c4483f4d77a32e17c87ac918bc/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b45cf1c4483f4d77a32e17c87ac918bc/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9d29d6ff8cc7e78aaf28ca4c070564d4/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:16:7-33
+	android:label
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:14:7-39
+	android:roundIcon
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:15:7-52
+	android:icon
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:12:7-33
+	android:theme
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:17:7-38
+activity#com.jinsoft77.firebaseloginkotlin.LoginActivity
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:20:5-25:16
+	android:name
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:20:15-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:21:7-24:23
+action#android.intent.action.MAIN
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:23:9-68
+	android:name
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:23:19-66
+activity#com.jinsoft77.firebaseloginkotlin.RegistrationActivity
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:27:5-28:16
+	android:name
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:27:15-51
+activity#com.jinsoft77.firebaseloginkotlin.MainActivity
+ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:29:5-45
+	android:name
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml:29:15-43
+uses-sdk
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6dcd4bc3448a85ddf4b2a328d461ebbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6dcd4bc3448a85ddf4b2a328d461ebbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3a1a028553dbee13798b106a601ac8fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3a1a028553dbee13798b106a601ac8fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9754d1324318f0ce57e6f14f62688260/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/9754d1324318f0ce57e6f14f62688260/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.5.aar/e0c74eac3eb9d920fbb0483839b84006/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.5.aar/e0c74eac3eb9d920fbb0483839b84006/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fa12db3d39755ff7df7598fb12a5d8f9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fa12db3d39755ff7df7598fb12a5d8f9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/a1251f31839659bad664e9efed04bdc7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/a1251f31839659bad664e9efed04bdc7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.3.aar/e38d40ba90585eda8a70abab179ebdf8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.3.aar/e38d40ba90585eda8a70abab179ebdf8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/d853d3ca29a5c3fce3fbd5f1485a1311/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/d853d3ca29a5c3fce3fbd5f1485a1311/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/46528902f2c8364a8cfd3a6d47fff12b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/46528902f2c8364a8cfd3a6d47fff12b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bd85c82c1f3821b6148afca0872b1efb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bd85c82c1f3821b6148afca0872b1efb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/e56fcb172a3c20c4027d651d59ac4095/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/e56fcb172a3c20c4027d651d59ac4095/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/7b175d59fb5c692fc0d60dc34f94594e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.4.aar/7b175d59fb5c692fc0d60dc34f94594e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/7e98afa9f59354613a45060b4943ad6f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/7e98afa9f59354613a45060b4943ad6f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/c856a84b9b72a80ac07573eb6908b8ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/c856a84b9b72a80ac07573eb6908b8ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/ca3bb0f8e59f16993d11807577808a5f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/ca3bb0f8e59f16993d11807577808a5f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/e96bce1b4dd1897ceb0930f3583d3ab1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/e96bce1b4dd1897ceb0930f3583d3ab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/35e1e596af69829373a468ee6dc949ea/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/35e1e596af69829373a468ee6dc949ea/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/aa6f03b78eb01de155f9cea723b5c7a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/aa6f03b78eb01de155f9cea723b5c7a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/da305f066c2ddcc7ecd809bdc69c471b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/da305f066c2ddcc7ecd809bdc69c471b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/66245f80369fc694cf786f4589c50d23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/66245f80369fc694cf786f4589c50d23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ea528adb7ff0e3bb9768ba4b32d2d460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ea528adb7ff0e3bb9768ba4b32d2d460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8ce156d7a397bd0444f859ef42bd0c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8ce156d7a397bd0444f859ef42bd0c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5100504293dcddff558078a421eb677a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5100504293dcddff558078a421eb677a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/619cb6aaf38097ee1033f5672400f086/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/619cb6aaf38097ee1033f5672400f086/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3896fc8662bd820130ad65aa79e93fcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3896fc8662bd820130ad65aa79e93fcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b9bb2160e10dbc76dcaa9e0e9b494e9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b9bb2160e10dbc76dcaa9e0e9b494e9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6775031e81a8fefdc5e89792be4b7f6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6775031e81a8fefdc5e89792be4b7f6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1f6c4285b793b79a4bff993d7ee17fda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1f6c4285b793b79a4bff993d7ee17fda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8a2acad7b33eecc7e06afc08896d8e7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8a2acad7b33eecc7e06afc08896d8e7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3d7088fa3cffe2fcc42c953fbbee188a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3d7088fa3cffe2fcc42c953fbbee188a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fcc9b4e838751167a2bc91fbf25f6be8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/fcc9b4e838751167a2bc91fbf25f6be8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5d39cd30e0a0c5188921f72aa2e00c52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5d39cd30e0a0c5188921f72aa2e00c52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/766da8c3b4fefbe17fcc3aa1c31bf8c0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/766da8c3b4fefbe17fcc3aa1c31bf8c0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9d29d6ff8cc7e78aaf28ca4c070564d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9d29d6ff8cc7e78aaf28ca4c070564d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b45cf1c4483f4d77a32e17c87ac918bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b45cf1c4483f4d77a32e17c87ac918bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a1209caac3e45cf0fa7d60a07807d23f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a1209caac3e45cf0fa7d60a07807d23f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/57cec216ed6704c9809ad660301b3533/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/57cec216ed6704c9809ad660301b3533/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8633448dabb94f2b4502e2576f845263/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8633448dabb94f2b4502e2576f845263/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9c71a4033c3cdda3c5278034b784b496/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9c71a4033c3cdda3c5278034b784b496/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5b46afba428498f2407fc8ed0b24a18e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5b46afba428498f2407fc8ed0b24a18e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5a884f40af964a76d2e6bf109c05344d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/5a884f40af964a76d2e6bf109c05344d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ab28d3ef0101578e4688852928965cc6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ab28d3ef0101578e4688852928965cc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b2f578ea4fd179520ba353933402f4a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b2f578ea4fd179520ba353933402f4a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fb503c74936166e37461659c1fdc5ee2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fb503c74936166e37461659c1fdc5ee2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/66a5c85c46e8db71c32829d9e7c1a1bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/66a5c85c46e8db71c32829d9e7c1a1bf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a10f953e58c6f4dac57cb15ee84fa972/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a10f953e58c6f4dac57cb15ee84fa972/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/35e1e596af69829373a468ee6dc949ea/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rainbowtape/code/java/firebaseloginkotlin/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.5.aar/b3b47fca6758dea6bb7cb7b7d4477a30/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.3.aar/d27634d48e1eb3ee6d9222a9c1af021d/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.3.aar/a0fa993b961617dfeabae032c0c547c1/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.5.aar/f1d187c057ce41b92cb6f1c48ffaa55c/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/2f7d77e3d748cb4785c26c8e27a4d651/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/46528902f2c8364a8cfd3a6d47fff12b/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/46528902f2c8364a8cfd3a6d47fff12b/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/46528902f2c8364a8cfd3a6d47fff12b/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/46528902f2c8364a8cfd3a6d47fff12b/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bd85c82c1f3821b6148afca0872b1efb/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bd85c82c1f3821b6148afca0872b1efb/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bd85c82c1f3821b6148afca0872b1efb/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bd85c82c1f3821b6148afca0872b1efb/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/bd85c82c1f3821b6148afca0872b1efb/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/e96bce1b4dd1897ceb0930f3583d3ab1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/e96bce1b4dd1897ceb0930f3583d3ab1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/e96bce1b4dd1897ceb0930f3583d3ab1/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/35e1e596af69829373a468ee6dc949ea/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/766da8c3b4fefbe17fcc3aa1c31bf8c0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/766da8c3b4fefbe17fcc3aa1c31bf8c0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/35e1e596af69829373a468ee6dc949ea/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/35e1e596af69829373a468ee6dc949ea/AndroidManifest.xml:27:13-51
