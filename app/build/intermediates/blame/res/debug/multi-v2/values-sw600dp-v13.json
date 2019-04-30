@@ -4,7 +4,7 @@
             "outputFile": "/Users/rainbowtape/code/java/firebaseloginkotlin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3a1a028553dbee13798b106a601ac8fe/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/71f901de1e809af6b5fedfe093812418/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6dcd4bc3448a85ddf4b2a328d461ebbe/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/Users/rainbowtape/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/7cd3d35c31496d8a57090945631a523c/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

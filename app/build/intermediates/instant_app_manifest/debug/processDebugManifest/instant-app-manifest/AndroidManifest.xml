@@ -28,16 +28,22 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.jinsoft77.firebaseloginkotlin.LoginActivity" >
+        <activity android:name="com.jinsoft77.firebaseloginkotlin.GroupActivity" />
+        <activity
+            android:name="com.jinsoft77.firebaseloginkotlin.LoginActivity"
+            android:noHistory="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.jinsoft77.firebaseloginkotlin.RegistrationActivity" >
-        </activity>
-        <activity android:name="com.jinsoft77.firebaseloginkotlin.MainActivity" />
+        <activity
+            android:name="com.jinsoft77.firebaseloginkotlin.RegistrationActivity"
+            android:noHistory="true" />
+        <activity
+            android:name="com.jinsoft77.firebaseloginkotlin.NickNameActivity"
+            android:noHistory="true" />
         <activity
             android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
             android:excludeFromRecents="true"

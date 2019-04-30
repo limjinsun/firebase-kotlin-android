@@ -1102,6 +1102,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id button_goto_group
 id button_logout
 id cancel_action
 id center
@@ -1179,6 +1180,7 @@ id mtrl_internal_children_alpha_tag
 id multiply
 id navigation_header_container
 id never
+id nickname
 id none
 id normal
 id notification_background
@@ -1329,8 +1331,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_group
 layout activity_login
-layout activity_main
+layout activity_nickname
 layout activity_registration
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -1346,6 +1349,7 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout loading_db_connection
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
