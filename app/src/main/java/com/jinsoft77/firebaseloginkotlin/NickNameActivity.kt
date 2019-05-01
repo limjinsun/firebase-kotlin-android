@@ -31,6 +31,8 @@ class NickNameActivity : AppCompatActivity() {
     var userEmail : String = mUser?.email.toString()
     textView.text = mUser?.email
 
+    database.keepSynced(true)
+
     gotoGroupButton.setOnClickListener {
       setNickNameAndGoToGroupActivity(nickText.text.toString(), database, userID, userEmail)
     }
@@ -38,7 +40,6 @@ class NickNameActivity : AppCompatActivity() {
     logoutButton.setOnClickListener {
       makeUserLogOutAndGotoLoginActivity()
     }
-
   }
 
   private fun setNickNameAndGoToGroupActivity(

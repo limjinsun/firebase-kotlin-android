@@ -21,13 +21,13 @@ class LoginActivity : AppCompatActivity() {
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
-    setContentView(R.layout.loading_db_connection)
-    var progressBar = findViewById<ProgressBar>(R.id.progressBar)
-
     // Check if user already logged in, If user logged in, bring it to the activity
     if (mAuth.currentUser != null) {
       Log.wtf(tag, "User is not null")
-      checkItHasNickName(progressBar)
+      setContentView(R.layout.loading_db_connection)
+      var progressBar = findViewById<ProgressBar>(R.id.progressBar)
+      checkUserHasNickName(progressBar)
+
     } else {
       FirebaseApp.initializeApp(this);
       setContentView(R.layout.activity_login)
@@ -71,7 +71,7 @@ class LoginActivity : AppCompatActivity() {
       .addOnCompleteListener { task ->
         if (task.isSuccessful) {
           Toast.makeText(applicationContext, "Login!", Toast.LENGTH_LONG).show()
-          checkItHasNickName(progressBar)
+          checkUserHasNickName(progressBar)
 
         } else {
           Log.wtf("--tag", task.exception.toString())
@@ -81,10 +81,11 @@ class LoginActivity : AppCompatActivity() {
       }
   }
 
-  private fun checkItHasNickName(progressBar: ProgressBar) {
+  private fun checkUserHasNickName(progressBar: ProgressBar) {
     var mUser: FirebaseUser? = mAuth.currentUser
     val userID = mUser?.uid.toString()
     var database: DatabaseReference = FirebaseDatabase.getInstance().reference
+    database.keepSynced(true)
     database.child("users").child(userID).addListenerForSingleValueEvent(object : ValueEventListener {
       override fun onDataChange(p0: DataSnapshot) {
         val user = p0.getValue(User::class.java)

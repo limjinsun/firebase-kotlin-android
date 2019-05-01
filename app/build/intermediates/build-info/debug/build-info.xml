@@ -5,24 +5,24 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="METHOD_DELETED"
+    ir-eligibility="CLASS_ADDED"
     plugin-version="3.3.2"
-    timestamp="1556581982178"
+    timestamp="1556667467129"
     token="7489336480818978603"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="54" />
+        duration="433" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="48" />
+        duration="129" />
     <task
         name="verifier"
-        duration="5" />
+        duration="52" />
 
     <artifact
         location="/Users/rainbowtape/code/java/firebaseloginkotlin/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
@@ -123,8 +123,8 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="METHOD_DELETED"
-        timestamp="1556581982178"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1556667467129"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/rainbowtape/code/java/firebaseloginkotlin/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
